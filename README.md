@@ -176,7 +176,7 @@ The final dashboard provides an interactive overview of employee attrition and w
 
 ### Employee Attrition & Workforce Insights Dashboard
 
-![Employee Attrition Dashboard](images/employee_attrition_dashboard.png)
+![Employee Attrition Dashboard](employee_attrition_dashboard.png)
 
 The dashboard includes:
 
