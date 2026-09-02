@@ -79,7 +79,6 @@ The project was developed using:
 - Excel Charts
 - Excel Dashboard
 - Data Cleaning
-- Exploratory Data Analysis (EDA)
 - Data Visualization
 
 ---
